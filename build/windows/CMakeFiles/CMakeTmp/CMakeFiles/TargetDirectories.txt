@@ -1,0 +1,2 @@
+C:/Users/TEMPTECH/ulam_app/build/windows/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_1824b.dir
+C:/Users/TEMPTECH/ulam_app/build/windows/CMakeFiles/CMakeTmp/CMakeFiles/ALL_BUILD.dir
